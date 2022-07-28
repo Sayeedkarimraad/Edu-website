@@ -15,7 +15,7 @@ body {
 .carousel-caption {
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-70%);
 
 }
 
@@ -25,4 +25,9 @@ body {
 
 .carousel-caption p {
     font-size: 1.5vw;
+}
+
+.carouse-button {
+    font-size: 1.2vw;
+    padding: .5vw 1vw;
 }
