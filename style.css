@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.img-fluid {
+    height: 100%;
+}
+
+.nav-item {
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.carousel-caption h5 {
+    font-size: 5.2vw;
+}
+
+.carousel-caption p {
+    font-size: 1.5vw;
+}
